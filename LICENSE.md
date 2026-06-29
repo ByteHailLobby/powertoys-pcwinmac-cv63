@@ -1,4 +1,4 @@
-# 
+# Open Source PowerToys scripts pour Mac OS | Élite PowerToys scripts pour PC Windows. Avec vidage de la corbeille et système de plugins — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
